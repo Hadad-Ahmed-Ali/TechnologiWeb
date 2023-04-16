@@ -17,3 +17,5 @@ Le but est de créer une page Web d'une composition de football.
 - Le dossiers **Projet.Zip** contient tous les ingrédients du travail: le script, le code Html, les images...
 - La photo **Techno1** est l'état initial une fois que l'utilisateur lancera la page Web.
 - La photo **Techno2** est l'état de la page une fois l'utilisateur remplit toute la feuille de match.
+- Le fichier **projet2023.js** est le code Html que vous pouvez l'exécuter sur un éditeur text comme visual studio.
+
