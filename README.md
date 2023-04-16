@@ -15,7 +15,7 @@ Le but est de créer une page Web d'une composition de football.
 
                         Dossiers
   - L'image **Techno.png** c'est l'état initiale de la page Web une foi l'ouvrir et L'image **techno2.png** est l'état de la page Web une fois tout remplir la feuille de match.
-  - Le dossier **Projet** contient tous les ingrédients du travail à savoir les photos, le script et le code Java.
-  - Le fichier **code** c'est juste je code Html Javascript.
+  - Le dossier **Projet.Zip** contient tous les ingrédients du travail à savoir les photos, le script et le code Java.
+  - Le fichier **projet2023.js** c'est juste je code Html Javascript que vous pouvez ainsi le trouver dans le dossier **Projet.Zip**.
 
  
