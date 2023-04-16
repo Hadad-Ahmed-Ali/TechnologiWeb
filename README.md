@@ -14,6 +14,6 @@ Le but est de créer une page Web d'une composition de football.
 - L'utilisateur peut tout initialiser la page web
 
                           Dossiers
-- Le dossiers **Projet.Zip** contient tout ingredient du tavaille: le script, le code Html, les images...
-- La photo **Techno1** est l'etat initiale une fois que l'utilisateur lancera la page Web.
-- La photo **Techno2** est l'etat de la page une fois l'utilisateur remplie toute la feuile de match.
+- Le dossiers **Projet.Zip** contient tous les ingrédients du travail: le script, le code Html, les images...
+- La photo **Techno1** est l'état initial une fois que l'utilisateur lancera la page Web.
+- La photo **Techno2** est l'état de la page une fois l'utilisateur remplit toute la feuille de match.
